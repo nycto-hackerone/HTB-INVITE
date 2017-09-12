@@ -1,0 +1,2 @@
+# DAMN-INVITE
+HACK THE BOX, Invite Code Gen
