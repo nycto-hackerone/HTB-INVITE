@@ -31,8 +31,8 @@ logo = RED \
                                                                   
 \033[1;34mCoded:Nycto                                 
 
- \033[1;34mHappy Hacking..!!            
---------------------------------------------------------------------
+ \033[1;34mA World Designed By Technology Is A World Designed To Be Broken..!            
+-----------------------------------------------------------------------------
 """ \
     + END
 print logo
